@@ -12,18 +12,18 @@ The project implements two scenarios:
 Athorization looks like this:  
   
 <p align="center">
- <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/entry.png" width="1000"  />
+ <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/entry.png" width="500"  />
 </p>  
   
 In case of incorrect input:  
   
 <p align="center">
- <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/ent_check.png" width="1000"  />
+ <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/ent_check.png" width="500"  />
 </p>  
 
 User registration:  
   
 <p align="center">
- <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/reg.png" width="1000"  />
+ <img src="https://github.com/Normix123/WebApplications/blob/main/WebApplicationAuthorization/reg.png" width="500"  />
 </p>  
   
